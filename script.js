@@ -1,15 +1,9 @@
-/*
-  QUICK SETUP:
-  1. Replace YOUR NAME in this file and index.html.
-  2. Paste each Roblox experience URL below.
-  3. Paste your contact link (for example, your Discord profile URL).
-  4. Replace the decorative project artwork with real screenshots before sharing.
-*/
+
 const PORTFOLIO = {
-  name: "YOUR NAME",
-  initial: "J",
-  squidGameUrl: "",
-  trainingCenterUrl: "",
+  name: "Collidion",
+  initial: "C",
+  squidGameUrl: "https://www.roblox.com/games/73228331807416/The-Final-Game",
+  trainingCenterUrl: "https://www.roblox.com/games/97957280054599/Staff-Training-Center",
   contactUrl: ""
 };
 
